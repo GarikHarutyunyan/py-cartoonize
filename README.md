@@ -19,7 +19,7 @@ Py-Cartoonize is a Python-based image processing project that applies a cartoon 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/GarikHarutyunyan/py-cartoonize.git
    cd py-cartoonize
    ```
 
